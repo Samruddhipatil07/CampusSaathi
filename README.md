@@ -38,3 +38,8 @@ CampusSaathi is a full-stack web application designed to streamline academic res
               ├── shared/         # Shared Types & Schemas
               ├── .env.local      # Environment variables (private)
               └── README.md       # Project documentation
+
+
+
+If anyone want to contact with me, you can reach out at my [LinkedIn](https://www.linkedin.com/in/samruddhi-patil-9891152b8/) or samruddhipatil1967@gmail.com
+
